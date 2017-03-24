@@ -1,0 +1,57 @@
+2016/10/26 11：00 张传玺：金币已经调整好了
+2016/10/26 11：28 张传玺：星矢已经是能动的了
+2016/10/26 13：40 张传玺：新的背景已经换好了
+2016/10/26 14：04 张传玺：炫酷了火箭的效果
+2016/10/26 14：27 张传玺：调整了障碍 and 调了一下火箭的亮度
+2016/10/26 15：06 张传玺：调整了背景音乐和警告
+2016/10/30 3:42	
+Kan: Add Class_Bonus.lua for bonus class
+2016/10/30 3:42	
+Kan: Change Scene_Game.lua to add game logic for bonus effect
+2016/10/30 3:42	
+Kan: Change class_Player.lua for changing display effects after hit bonus
+2016/10/30 3:42	
+Kan: Change main.lua and Class_Jetpack.lua for functional adaptation
+
+chuanxi: add heart animation. 2016 10/30 11:33
+chuanxi: add heart sound.     2016 10/30 11:40
+chuanxi: change font, swap warning. 2016 10/30 12:02
+chuanxi：add protection judge lable. 2016 10/30 12:24
+
+Kan: add static picture in the screen by modifying class_Hud.lua 2016/10/30 14:34
+
+chuanxi: when people eat heart, it changes images. 2016 10/31 11:45
+chaunxi: add snow animation.                       2016 10/31 11:55
+
+Ling： Coin shape "CS526" added. 2016 10/31 15:20
+Wang: background and color of text in screen_MainMenu changed  2016 10/31 15:21
+Ling: Coin shape "USC" added. 2016 10/31 15:30
+
+Yuao: make runner not be able to get out of screen  2016 11/05 16:34
+Ling： Coin overlap fixed. 2016 11/07 13:45
+
+
+
+Yuao: add an accelerating and undead gadget   2016 11/09 14:48
+
+chuanxi: renew the animation of diamond.   2016 11/9 22:27
+chuanxi: renew the text "Stars" to "Score"  2016 11/9 22:27
+chuanxi: add image of acceleration. 2016 11/9 23:08
+chuanxi: add sound of diamond	2016 11/9 23:08
+chuanxi: add sound of acceleration.	2016 11/9 23:08
+
+
+chuanxi:add energy bar   2016 11/12 19:47
+chuanxi:add energy bar animation  2016 11/12 19:47
+chuanxi:add energy seiya  2016 11/12 19:47
+chuanxi:modify position of energy bar  2016 11/12 19:47
+chuanxi:modify progress of energy bar  2016 11/12 19:47
+
+chuanxi:add image of dizzy
+
+
+
+
+
+
+

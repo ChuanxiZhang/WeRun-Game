@@ -1,0 +1,304 @@
+[	
+	{ 
+		"back":"assets/images/levelSections/1.png"	
+	},
+	{ 
+		"back":"assets/images/levelSections/2.png",
+		"coins":
+		[ 
+			{ "position":[ 450, 400 ] },
+            { "position":[ 500, 400 ] },
+            { "position":[ 400, 450 ] },
+            { "position":[ 400, 500 ] },
+            { "position":[ 400, 550 ] },
+            { "position":[ 450, 600 ] },
+            { "position":[ 500, 600 ] },
+
+            { "position":[ 650, 400 ] },
+            { "position":[ 700, 400 ] },
+            { "position":[ 600, 450 ] },
+            { "position":[ 650, 500 ] },
+            { "position":[ 700, 550 ] },
+            { "position":[ 600, 600 ] },
+            { "position":[ 650, 600 ] },
+
+            { "position":[ 800, 400 ] },
+            { "position":[ 850, 400 ] },
+            { "position":[ 900, 400 ] },
+            { "position":[ 800, 450 ] },
+            { "position":[ 800, 500 ] },
+            { "position":[ 850, 500 ] },
+            { "position":[ 900, 500 ] },
+            { "position":[ 900, 550 ] },
+            { "position":[ 800, 600 ] },
+            { "position":[ 850, 600 ] },
+            { "position":[ 900, 600 ] },
+
+            { "position":[ 1000, 400 ] },
+            { "position":[ 1050, 400 ] },
+            { "position":[ 1100, 400 ] },
+            { "position":[ 1100, 450 ] },
+            { "position":[ 1000, 500 ] },
+            { "position":[ 1050, 500 ] },
+            { "position":[ 1100, 500 ] },
+            { "position":[ 1000, 550 ] },
+            { "position":[ 1000, 600 ] },
+            { "position":[ 1050, 600 ] },
+            { "position":[ 1100, 600 ] },
+
+            { "position":[ 1200, 400 ] },
+            { "position":[ 1250, 400 ] },
+            { "position":[ 1300, 400 ] },
+            { "position":[ 1200, 450 ] },
+            { "position":[ 1200, 500 ] },
+            { "position":[ 1250, 500 ] },
+            { "position":[ 1300, 500 ] },
+            { "position":[ 1200, 550 ] },
+            { "position":[ 1300, 550 ] },
+            { "position":[ 1200, 600 ] },
+            { "position":[ 1250, 600 ] },
+            { "position":[ 1300, 600 ] }
+			
+		],
+		"zappers":
+		[ 
+			{ "position":[ 100, 550 ], "rotationSpeed":9 },
+			{ "position":[ 100, 550 ], "rotationSpeed":9 },
+			{ "position":[ 300, 250 ], "rotationSpeed":15 },
+			{ "position":[ 300, 250 ], "rotationSpeed":15 }
+		],
+		"missiles":
+		[ 
+			{ "height":300, "offset":100 },
+			{ "height":200, "offset":200 }
+		],
+		"bonus":
+		[
+			{ "position":[ 500, 200 ] }
+		],
+		"diamond":
+		[
+			{ "position":[ 400, 200 ] }
+		],
+		"overturn":
+		[
+			{ "position":[ 450, 260 ] }
+		]		
+	},
+	{ 
+		"back":"assets/images/levelSections/3.png",
+		"coins":
+		[ 
+			{ "position":[ 400, 100 ] },
+			{ "position":[ 400, 150 ] },
+			{ "position":[ 400, 200 ] },
+			{ "position":[ 400, 250 ] },
+			{ "position":[ 500, 100 ] },
+			{ "position":[ 500, 150 ] },
+			{ "position":[ 500, 200 ] },
+			{ "position":[ 500, 250 ] },
+			{ "position":[ 450, 300 ] },
+
+			{ "position":[ 650, 100 ] },
+            { "position":[ 700, 100 ] },
+            { "position":[ 600, 150 ] },
+            { "position":[ 650, 200 ] },
+            { "position":[ 700, 250 ] },
+            { "position":[ 600, 300 ] },
+            { "position":[ 650, 300 ] },
+
+			{ "position":[ 850, 100 ] },
+            { "position":[ 900, 100 ] },
+            { "position":[ 800, 150 ] },
+            { "position":[ 800, 200 ] },
+            { "position":[ 800, 250 ] },
+            { "position":[ 850, 300 ] },
+            { "position":[ 900, 300 ] }
+
+		],
+		"zappers":
+		[ 
+			{ "position":[ 200, 600 ] },
+			{ "position":[ 300, 400 ] }
+	
+			
+		],
+		"missiles":
+		[ 
+			{ "height":100, "offset":800 },
+			{ "height":100, "offset":400 },
+			{ "height":600, "offset":800 },
+			{ "height":600, "offset":400 }
+			
+		],
+		"bonus":
+		[
+			{ "position":[ 500, 200 ] }
+		],
+		"diamond":
+		[
+			{ "position":[ 400, 200 ] }
+		],
+		"overturn":
+		[
+			{ "position":[ 450, 260 ] }
+		]			
+	},
+	{ 
+		"back":"assets/images/levelSections/3.png",
+		"coins":
+		[ 	
+			{ "position":[ 100, 100 ] },
+			{ "position":[ 100, 150 ] },
+			{ "position":[ 100, 200 ] },
+			{ "position":[ 100, 250 ] },
+			{ "position":[ 150, 300 ] },
+			{ "position":[ 200, 100 ] },
+			{ "position":[ 200, 150 ] },
+			{ "position":[ 200, 200 ] },
+			{ "position":[ 200, 250 ] },
+			
+			{ "position":[ 300, 100 ] },
+			{ "position":[ 300, 150 ] },
+			{ "position":[ 300, 200 ] },
+			{ "position":[ 300, 250 ] },
+			{ "position":[ 350, 300 ] },
+			{ "position":[ 400, 100 ] },
+			{ "position":[ 400, 150 ] },
+			{ "position":[ 400, 200 ] },
+			{ "position":[ 400, 250 ] }
+	
+
+		],
+		"zappers":
+		[ 
+			{ "position":[ 100, 100 ], "rotation":270 },
+			{ "position":[ 200, 600 ], "rotation":90 },
+			{ "position":[ 300, 100 ], "rotation":270 },
+			{ "position":[ 400, 600 ], "rotation":90 },
+			{ "position":[ 500, 100 ], "rotation":270 },
+			{ "position":[ 600, 600 ], "rotation":90 }
+			
+			
+			
+		],
+		"missiles":
+		[ 
+			{ "height":200, "offset":800 },
+			{ "height":200, "offset":600 },
+			{ "height":500, "offset":800 },
+			{ "height":500, "offset":600 },
+		],
+		"bonus":
+		[
+			{ "position":[ 500, 200 ] }
+		],
+		"diamond":
+		[
+			{ "position":[ 400, 200 ] }
+		],
+		"overturn":
+		[
+			{ "position":[ 450, 260 ] }
+		]			
+	},
+	{ 
+		"back":"assets/images/levelSections/2.png",
+		"coins":
+		[ 	
+			{ "position":[ 100, 100 ] },
+			{ "position":[ 100, 150 ] },
+			{ "position":[ 100, 200 ] },
+			{ "position":[ 100, 250 ] },
+			{ "position":[ 150, 300 ] },
+			{ "position":[ 200, 100 ] },
+			{ "position":[ 200, 150 ] },
+			{ "position":[ 200, 200 ] },
+			{ "position":[ 200, 250 ] },
+			
+			{ "position":[ 300, 100 ] },
+			{ "position":[ 300, 150 ] },
+			{ "position":[ 300, 200 ] },
+			{ "position":[ 300, 250 ] },
+			{ "position":[ 350, 300 ] },
+			{ "position":[ 400, 100 ] },
+			{ "position":[ 400, 150 ] },
+			{ "position":[ 400, 200 ] },
+			{ "position":[ 400, 250 ] }
+		],
+
+
+		"zappers":
+		[ 
+			{ "position":[ 400, 350 ], "rotationSpeed":1 },
+			{ "position":[ 100, 350 ], "rotation":60 }
+		],
+		"missiles":
+		[ 
+			{ "height":100, "offset":100 },
+			{ "height":200, "offset":200 },
+			{ "height":300, "offset":300 }
+			
+		],
+		"bonus":
+		[
+			{ "position":[ 500, 200 ] }
+		],
+		"diamond":
+		[
+			{ "position":[ 400, 200 ] }
+		],
+		"overturn":
+		[
+			{ "position":[ 450, 260 ] }
+		]			
+	},
+	{ 
+		"back":"assets/images/levelSections/1.png",
+		"coins":
+		[ 	
+			{ "position":[ 100, 100 ] },
+			{ "position":[ 100, 150 ] },
+			{ "position":[ 100, 200 ] },
+			{ "position":[ 100, 250 ] },
+			{ "position":[ 150, 300 ] },
+			{ "position":[ 200, 100 ] },
+			{ "position":[ 200, 150 ] },
+			{ "position":[ 200, 200 ] },
+			{ "position":[ 200, 250 ] },
+			
+			{ "position":[ 300, 100 ] },
+			{ "position":[ 300, 150 ] },
+			{ "position":[ 300, 200 ] },
+			{ "position":[ 300, 250 ] },
+			{ "position":[ 350, 300 ] },
+			{ "position":[ 400, 100 ] },
+			{ "position":[ 400, 150 ] },
+			{ "position":[ 400, 200 ] },
+			{ "position":[ 400, 250 ] }
+
+		],
+		"zappers":
+		[ 
+			{ "position":[ 400, 300 ], "rotation":90 },
+			{ "position":[ 300, 450 ], "rotation":45 }
+		],
+		"missiles":
+		[ 
+			{ "height":400, "offset":300 },
+			{ "height":600, "offset":600 }
+		],
+		"bonus":
+		[
+			{ "position":[ 500, 200 ] }
+		],
+		"diamond":
+		[
+			{ "position":[ 400, 200 ] }
+		],
+		"overturn":
+		[
+			{ "position":[ 450, 260 ] }
+		]			
+	}
+]

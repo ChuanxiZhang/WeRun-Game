@@ -1,0 +1,247 @@
+[	
+	{ 
+		"back":"assets/images/levelSections/1.png"	
+	},
+	{ 
+		"back":"assets/images/levelSections/2.png",
+		"coins":
+		[ 
+			{ "position":[ 450, 100 ] },
+            { "position":[ 500, 100 ] },
+            { "position":[ 400, 150 ] },
+            { "position":[ 400, 200 ] },
+            { "position":[ 400, 250 ] },
+            { "position":[ 450, 300 ] },
+            { "position":[ 500, 300 ] },
+
+            { "position":[ 650, 100 ] },
+            { "position":[ 700, 100 ] },
+            { "position":[ 600, 150 ] },
+            { "position":[ 650, 200 ] },
+            { "position":[ 700, 250 ] },
+            { "position":[ 600, 300 ] },
+            { "position":[ 650, 300 ] },
+
+            { "position":[ 800, 100 ] },
+            { "position":[ 850, 100 ] },
+            { "position":[ 900, 100 ] },
+            { "position":[ 800, 150 ] },
+            { "position":[ 800, 200 ] },
+            { "position":[ 850, 200 ] },
+            { "position":[ 900, 200 ] },
+            { "position":[ 900, 250 ] },
+            { "position":[ 800, 300 ] },
+            { "position":[ 850, 300 ] },
+            { "position":[ 900, 300 ] },
+
+            { "position":[ 1000, 100 ] },
+            { "position":[ 1050, 100 ] },
+            { "position":[ 1100, 100 ] },
+            { "position":[ 1100, 150 ] },
+            { "position":[ 1000, 200 ] },
+            { "position":[ 1050, 200 ] },
+            { "position":[ 1100, 200 ] },
+            { "position":[ 1000, 250 ] },
+            { "position":[ 1000, 300 ] },
+            { "position":[ 1050, 300 ] },
+            { "position":[ 1100, 300 ] },
+
+            { "position":[ 1200, 100 ] },
+            { "position":[ 1250, 100 ] },
+            { "position":[ 1300, 100 ] },
+            { "position":[ 1200, 150 ] },
+            { "position":[ 1200, 200 ] },
+            { "position":[ 1250, 200 ] },
+            { "position":[ 1300, 200 ] },
+            { "position":[ 1200, 250 ] },
+            { "position":[ 1300, 250 ] },
+            { "position":[ 1200, 300 ] },
+            { "position":[ 1250, 300 ] },
+            { "position":[ 1300, 300 ] }
+		
+			
+			
+			
+			
+		],
+		"zappers":
+		[ 
+			{ "position":[ 300, 450 ], "rotation":45 }
+		],
+		"missiles":
+		[ 
+			{ "height":300, "offset":100 }
+		],
+		"bonus":
+		[
+			{ "position":[ 500, 200 ] }
+		]
+	},
+	{ 
+		"back":"assets/images/levelSections/3.png",
+		"coins":
+		[ 
+			{ "position":[ 400, 400 ] },
+			{ "position":[ 400, 450 ] },
+			{ "position":[ 400, 500 ] },
+			{ "position":[ 400, 550 ] },
+			{ "position":[ 500, 400 ] },
+			{ "position":[ 500, 450 ] },
+			{ "position":[ 500, 500 ] },
+			{ "position":[ 500, 550 ] },
+			{ "position":[ 450, 600 ] },
+
+			{ "position":[ 650, 400 ] },
+            { "position":[ 700, 400 ] },
+            { "position":[ 600, 450 ] },
+            { "position":[ 650, 500 ] },
+            { "position":[ 700, 550 ] },
+            { "position":[ 600, 600 ] },
+            { "position":[ 650, 600 ] },
+
+			{ "position":[ 850, 400 ] },
+            { "position":[ 900, 400 ] },
+            { "position":[ 800, 450 ] },
+            { "position":[ 800, 500 ] },
+            { "position":[ 800, 550 ] },
+            { "position":[ 850, 600 ] },
+            { "position":[ 900, 600 ] },
+
+            
+	
+		
+
+			
+		],
+		"zappers":
+		[ 
+			{ "position":[ 200, 600 ] }
+		],
+		"missiles":
+		[ 
+			{ "height":100, "offset":800 }
+		],
+		"bonus":
+		[
+			{ "position":[ 500, 200 ] }
+		]		
+	},
+	{ 
+		"back":"assets/images/levelSections/3.png",
+		"coins":
+		[ 	
+			{ "position":[ 100, 100 ] },
+			{ "position":[ 100, 150 ] },
+			{ "position":[ 100, 200 ] },
+			{ "position":[ 100, 250 ] },
+			{ "position":[ 150, 300 ] },
+			{ "position":[ 200, 100 ] },
+			{ "position":[ 200, 150 ] },
+			{ "position":[ 200, 200 ] },
+			{ "position":[ 200, 250 ] },
+			
+			{ "position":[ 300, 100 ] },
+			{ "position":[ 300, 150 ] },
+			{ "position":[ 300, 200 ] },
+			{ "position":[ 300, 250 ] },
+			{ "position":[ 350, 300 ] },
+			{ "position":[ 400, 100 ] },
+			{ "position":[ 400, 150 ] },
+			{ "position":[ 400, 200 ] },
+			{ "position":[ 400, 250 ] }
+	
+
+		],
+		"zappers":
+		[ 
+			{ "position":[ 400, 300 ] }
+		],
+		"missiles":
+		[ 
+			{ "height":400, "offset":300 },
+			{ "height":600, "offset":600 }
+		],
+		"bonus":
+		[
+			{ "position":[ 500, 200 ] }
+		]		
+	},
+	{ 
+		"back":"assets/images/levelSections/2.png",
+		"coins":
+		[ 	
+			{ "position":[ 100, 100 ] },
+			{ "position":[ 100, 150 ] },
+			{ "position":[ 100, 200 ] },
+			{ "position":[ 100, 250 ] },
+			{ "position":[ 150, 300 ] },
+			{ "position":[ 200, 100 ] },
+			{ "position":[ 200, 150 ] },
+			{ "position":[ 200, 200 ] },
+			{ "position":[ 200, 250 ] },
+			
+			{ "position":[ 300, 100 ] },
+			{ "position":[ 300, 150 ] },
+			{ "position":[ 300, 200 ] },
+			{ "position":[ 300, 250 ] },
+			{ "position":[ 350, 300 ] },
+			{ "position":[ 400, 100 ] },
+			{ "position":[ 400, 150 ] },
+			{ "position":[ 400, 200 ] },
+			{ "position":[ 400, 250 ] }
+		],
+
+
+		"zappers":
+		[ 
+			{ "position":[ 400, 350 ], "rotationSpeed":1 }
+		],
+		"missiles":
+		[ 
+			{ "height":600, "offset":400 }
+		],
+		"bonus":
+		[
+			{ "position":[ 500, 200 ] }
+		]		
+	},
+	{ 
+		"back":"assets/images/levelSections/1.png",
+		"coins":
+		[ 	
+			{ "position":[ 100, 100 ] },
+			{ "position":[ 100, 150 ] },
+			{ "position":[ 100, 200 ] },
+			{ "position":[ 100, 250 ] },
+			{ "position":[ 150, 300 ] },
+			{ "position":[ 200, 100 ] },
+			{ "position":[ 200, 150 ] },
+			{ "position":[ 200, 200 ] },
+			{ "position":[ 200, 250 ] },
+			
+			{ "position":[ 300, 100 ] },
+			{ "position":[ 300, 150 ] },
+			{ "position":[ 300, 200 ] },
+			{ "position":[ 300, 250 ] },
+			{ "position":[ 350, 300 ] },
+			{ "position":[ 400, 100 ] },
+			{ "position":[ 400, 150 ] },
+			{ "position":[ 400, 200 ] },
+			{ "position":[ 400, 250 ] }
+
+		],
+		"zappers":
+		[ 
+			{ "position":[ 400, 300 ], "rotation":90 }
+		],
+		"missiles":
+		[ 
+			{ "height":400, "offset":300 },
+			{ "height":600, "offset":600 }
+		],
+		"bonus":
+		[
+			{ "position":[ 500, 200 ] }
+		]		
+	}
+]
